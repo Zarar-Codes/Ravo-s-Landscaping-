@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.ravosmaintenance.com.au/sitemap.xml

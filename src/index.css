@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+:root {
+  /* Ravo's Landscaping & Property Maintenance — Earth & Forest Brand Palette */
+  --color-forest: #263B2E;
+  --color-forest-deep: #1A2A20;
+  --color-eucalyptus: #78866B;
+  --color-clay: #B77A52;
+  --color-clay-hover: #9E6540;
+  --color-limestone: #F3F0E8;
+  --color-sand: #EAE5D9;
+  --color-charcoal: #20251F;
+  --color-muted: #525B51;
+  --color-white: #FFFFFF;
+  --color-border: rgba(32, 37, 31, 0.13);
+  --color-border-light: rgba(243, 240, 232, 0.18);
+
+  --font-display: 'Syne', sans-serif;
+  --font-sans: 'Manrope', sans-serif;
+  --font-editorial: 'Cormorant Garamond', Georgia, serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    background-color: var(--color-limestone);
+    color: var(--color-charcoal);
+    overflow-x: clip;
+  }
+
+  body {
+    margin: 0;
+    overflow-x: clip;
+    font-feature-settings: "kern" 1, "liga" 1;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-clay);
+    outline-offset: 3px;
+  }
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-editorial {
+  font-family: var(--font-editorial);
+}
+
+.font-sans-body {
+  font-family: var(--font-sans);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Editorial hairlines */
+.hairline-dark {
+  border-color: var(--color-border);
+}
+
+.hairline-light {
+  border-color: var(--color-border-light);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

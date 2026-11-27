@@ -1,0 +1,1289 @@
+# RAVO'S LANDSCAPING & PROPERTY MAINTENANCE
+## PREMIUM LANDSCAPING WEBSITE REDESIGN
+**Complete One-Page Homepage | Premium Outdoor Living | Project Storytelling | Conversion-Focused UX**
+
+## 01. YOUR ROLE
+
+Act as an award-winning creative director, senior landscape website designer, UI/UX strategist, conversion specialist, motion designer, and senior React developer.
+
+Create an exceptionally designed, premium, modern website for **Ravo's Landscaping & Property Maintenance**, an Australian landscaping and property maintenance business based in Trafalgar, Victoria.
+
+The website must feel like a professional outdoor design and landscaping brand, not a generic gardening or handyman website.
+
+The visual experience should communicate:
+
+- Professional landscaping and craftsmanship.
+- Beautiful outdoor transformations.
+- Reliable property maintenance.
+- Practical outdoor construction expertise.
+- Family-owned business identity.
+- Over 15 years of industry experience.
+
+Do not create a generic landscaping template.
+
+Build a distinctive visual identity with strong typography, authentic project imagery, sophisticated layouts, and useful interactive experiences.
+
+## 02. STRICT REQUIREMENT — ONE HOMEPAGE ONLY
+
+Build ONE complete, long-scrolling homepage.
+
+Do not create:
+- Separate About page.
+- Separate Services page.
+- Separate Projects page.
+- Separate Contact page.
+- Separate Gallery page.
+- Additional routes.
+- Hire Me pages.
+- InoDo promotional content.
+- Placeholder pages.
+
+Every section must exist on the same homepage.
+
+All navigation links must smoothly scroll to their corresponding sections.
+
+Never include:
+- Hire me to build this.
+- Want a website like this?
+- Build your website with InoDo.
+- Website coming soon.
+- Contact the website designer.
+
+This must look like a finished business website belonging to Ravo's.
+
+## 03. BUSINESS INFORMATION AND RESEARCH
+
+Official website:
+https://www.ravosmaintenance.com.au/
+
+Facebook:
+https://www.facebook.com/profile.php?id=100063685218651
+
+Instagram:
+https://www.instagram.com/ravos_landscaping/
+
+Business name:
+Ravo's Landscaping & Property Maintenance.
+
+Location:
+7 Factory Road, Trafalgar, VIC 3824, Australia.
+
+Published phone numbers:
+0447 167 416
+0494 123 909
+
+Business background:
+- Family-owned business.
+- Over 15 years of landscaping and property maintenance experience.
+- Residential, commercial and public-area work.
+- Once-off and ongoing jobs.
+- Online job booking is offered on the existing website.
+- The business highlights professionalism, reliability, punctuality and insurance.
+
+### Published services
+
+LANDSCAPING
+- Landscape construction.
+- General landscaping.
+- Garden makeovers.
+- Retaining walls.
+
+PROPERTY MAINTENANCE
+- Property maintenance.
+- Lawn mowing.
+- Gardening.
+- Tree and bush pruning.
+- Gutter cleaning.
+- Rubbish removal.
+
+OUTDOOR CONSTRUCTION
+- Decking.
+- Fire pits.
+- Outdoor steps.
+- Concreting.
+
+SPECIALIST SERVICES
+- Custom timber milling.
+- Handyman services.
+- Small tree removal.
+
+Use these services as the factual foundation.
+
+Do not invent:
+- Prices.
+- Service guarantees.
+- Customer names.
+- Awards.
+- Certifications.
+- Project budgets.
+- Project dimensions.
+- Completion times.
+- Team member names.
+- Customer reviews.
+
+If additional details are discovered in official business materials, use them only when verifiable.
+
+## 04. BRAND COLOUR EXTRACTION — MANDATORY
+
+Before designing, inspect:
+
+1. The official Ravo's website.
+2. Its logo and brand assets.
+3. Existing website backgrounds.
+4. Navigation and button colours.
+5. Typography and visual identity.
+6. Official social media branding.
+
+Extract the actual existing brand colours.
+
+Build a cohesive palette containing:
+
+- Primary brand colour.
+- Secondary brand colour.
+- Accent colour.
+- Main background.
+- Secondary background.
+- Main typography.
+- Muted typography.
+- Border colour.
+
+Create CSS variables from the extracted colours.
+
+**Do not replace the existing identity with an unrelated colour scheme.**
+
+If exact HEX values cannot be extracted, use this restrained fallback palette:
+
+| Colour | HEX | Usage |
+|---|---|---|
+| Deep Forest | #263B2E | Primary backgrounds |
+| Eucalyptus | #78866B | Secondary accents |
+| Warm Clay | #B77A52 | Small highlights |
+| Limestone | #F3F0E8 | Main background |
+| Charcoal | #20251F | Main typography |
+| Soft White | #FFFFFF | Clean sections |
+
+This fallback is a proposed redesign direction, NOT a claim about the company's existing colours.
+
+The final design must preserve recognizable brand elements wherever possible.
+
+Avoid neon green, excessive gradients and unrelated bright colours.
+
+## 05. TYPOGRAPHY SYSTEM — BOLD AND PREMIUM
+
+Use a strong three-font combination.
+
+### PRIMARY DISPLAY — SYNE
+Weights: 600, 700, 800.
+
+Use for:
+- Hero headline.
+- Main section headings.
+- Large editorial statements.
+- Project titles.
+- CTA headlines.
+
+### SECONDARY — MANROPE
+Weights: 400, 500, 600, 700.
+
+Use for:
+- Body text.
+- Navigation.
+- Buttons.
+- Descriptions.
+- Forms.
+
+### EDITORIAL ACCENT — CORMORANT GARAMOND
+Weights: 500, 600, italic.
+
+Use selectively for:
+- Elegant italic words.
+- Editorial statements.
+- Small decorative headings.
+
+Typography rules:
+- Large, bold headings.
+- Strong visual hierarchy.
+- Beautifully controlled line breaks.
+- Responsive clamp() typography.
+- Generous whitespace.
+- Small uppercase section labels.
+- Excellent mobile readability.
+
+Syne should dominate the visual identity.
+
+Avoid generic thin typography.
+
+## 06. CREATIVE DIRECTION
+
+Create a combination of:
+
+- Premium Australian landscaping brands.
+- Contemporary outdoor architecture.
+- Luxury garden design studios.
+- Editorial design magazines.
+- Modern outdoor living photography.
+- High-end residential landscape portfolios.
+
+Visual personality:
+
+Premium. Natural. Confident. Bold. Organic. Architectural. Refined.
+
+### Layout principles
+
+Use:
+- Oversized typography.
+- Asymmetric image compositions.
+- Full-width landscape photography.
+- Editorial whitespace.
+- Large project imagery.
+- Strong section contrast.
+- Beautiful image cropping.
+- Subtle borders.
+- Carefully balanced layouts.
+
+Avoid:
+- Repetitive three-column cards.
+- Generic gardening templates.
+- Excessive rounded cards.
+- Cheap gradients.
+- Cartoon illustrations.
+- Generic gardening icons everywhere.
+- Repetitive layouts.
+- Excessive glassmorphism.
+
+The website should look custom-designed.
+
+## 07. NAVIGATION
+
+Create a premium fixed navigation.
+
+LEFT:
+RAVO'S logo or official wordmark.
+
+CENTER:
+HOME
+OUR APPROACH
+SERVICES
+OUR WORK
+WHY RAVO'S
+CONTACT
+
+RIGHT:
+CALL US
+GET A FREE QUOTE
+
+Design:
+- Clean typography.
+- Restrained background.
+- Elegant hover transitions.
+- Smooth scrolling.
+- Active section indicator.
+- Transparent-to-solid transition if suitable.
+
+Mobile:
+- Compact logo.
+- Animated menu toggle.
+- Full-screen or elegant dropdown navigation.
+- Prominent quote CTA.
+- Touch-friendly controls.
+
+Every link must work.
+
+# 08. COMPLETE HOMEPAGE STRUCTURE
+
+Build every section below in this exact order.
+
+### SECTION 01 — CINEMATIC LANDSCAPING HERO
+
+Create a breathtaking first screen.
+
+Use an authentic, beautiful landscaping photograph from the official Ravo's gallery if available.
+
+Visual characteristics:
+- Beautiful garden transformations.
+- Natural stone pathways.
+- Carefully maintained lawns.
+- Timber outdoor structures.
+- Beautiful garden borders.
+- Contemporary outdoor living areas.
+
+Use a full-screen or large cinematic background image.
+
+Small eyebrow:
+
+TRAFALGAR · VICTORIA · 15+ YEARS OF EXPERIENCE
+
+Main headline:
+
+"OUTDOOR SPACES.
+DONE RIGHT."
+
+Alternative editorial composition:
+
+"MAKE MORE OF
+YOUR OUTDOORS."
+
+Supporting copy:
+
+"From complete garden transformations to reliable property maintenance, Ravo's brings experience and practical expertise to the spaces around your property."
+
+Primary CTA:
+EXPLORE OUR WORK
+
+Secondary CTA:
+GET A FREE QUOTE
+
+Small trust statement:
+
+FAMILY OWNED · OVER 15 YEARS · ONGOING OR ONCE-OFF WORK
+
+Design:
+- Oversized bold typography.
+- Cinematic landscaping photography.
+- Strong contrast.
+- Elegant CTA buttons.
+- Small scroll indicator.
+- Beautiful image overlay.
+
+Animations:
+- Hero image clipping-mask reveal.
+- Staggered heading animation.
+- Supporting copy fade-in.
+- CTA reveal.
+- Subtle background parallax.
+
+The hero must immediately communicate landscaping and outdoor property care, not just generic maintenance.
+
+### SECTION 02 — BRAND INTRODUCTION
+
+Background: Use the established brand palette.
+
+Small label:
+
+THE RAVO'S APPROACH
+
+Headline:
+
+"MORE THAN MAINTENANCE.
+A BETTER OUTDOOR SPACE."
+
+Supporting copy:
+
+"Every property has different needs. Whether you're looking to transform an outdoor area, maintain your garden, or improve your property's functionality, Ravo's offers practical landscaping and maintenance solutions."
+
+Showcase three important brand qualities:
+
+01 — EXPERIENCE
+
+"Over 15 years of landscaping and property maintenance experience."
+
+02 — RELIABILITY
+
+"A professional approach focused on dependable service."
+
+03 — FLEXIBILITY
+
+"Once-off projects and ongoing property maintenance options."
+
+Design:
+- Large editorial typography.
+- Three horizontal proof points.
+- Beautiful garden photograph.
+- Subtle animated dividers.
+- Strong visual contrast.
+
+### SECTION 03 — FIND THE RIGHT SERVICE
+
+THIS IS ONE OF THE MOST IMPORTANT SECTIONS.
+
+The existing business offers a broad range of services. Visitors should not have to navigate an overwhelming list to find what they need.
+
+Create an interactive service-discovery experience.
+
+Headline:
+
+"WHAT DOES YOUR
+PROPERTY NEED?"
+
+Supporting copy:
+
+"Whether you're planning a complete outdoor transformation or simply need help keeping your property in shape, find the right service pathway."
+
+Create three prominent service pathways.
+
+PATHWAY 01 — LANDSCAPE TRANSFORMATIONS
+
+For customers who want to improve or completely transform their outdoor areas.
+
+Include:
+- Landscaping.
+- Garden makeovers.
+- Retaining walls.
+- Landscape construction.
+- Decking and outdoor spaces.
+
+CTA:
+EXPLORE LANDSCAPING
+
+PATHWAY 02 — PROPERTY CARE
+
+For customers who need regular or one-off property upkeep.
+
+Include:
+- Lawn mowing.
+- Gardening.
+- Tree and bush pruning.
+- General property maintenance.
+- Gutter cleaning.
+- Rubbish removal.
+
+CTA:
+EXPLORE PROPERTY CARE
+
+PATHWAY 03 — SPECIALIST OUTDOOR WORK
+
+For customers with specific construction or maintenance requirements.
+
+Include:
+- Concreting.
+- Fire pits.
+- Outdoor steps.
+- Custom timber milling.
+- Handyman services.
+- Small tree removal.
+
+CTA:
+EXPLORE SPECIALIST SERVICES
+
+Interactive functionality:
+
+When visitors select a pathway:
+- Visually highlight the selected pathway.
+- Reveal its associated services.
+- Show relevant photography.
+- Provide a direct enquiry CTA.
+- Keep the interaction on the same homepage.
+
+Do not create separate routes.
+
+Use sophisticated image-led panels rather than ordinary cards.
+
+### SECTION 04 — LANDSCAPING & OUTDOOR TRANSFORMATIONS
+
+Background: Limestone or white.
+
+Small label:
+
+LANDSCAPE CONSTRUCTION
+
+Headline:
+
+"TURN YOUR OUTDOOR
+IDEAS INTO REAL SPACES."
+
+Supporting copy:
+
+"Create an outdoor environment that feels more considered, functional and connected to your property."
+
+Present the following services:
+
+01 — LANDSCAPING
+
+"Thoughtful landscaping solutions that bring together garden elements, outdoor spaces and the character of your property."
+
+02 — GARDEN MAKEOVERS
+
+"Give an existing garden a new direction through considered planting, layout improvements and outdoor transformations."
+
+03 — RETAINING WALLS
+
+"Practical retaining wall solutions that help manage changes in ground levels and define outdoor spaces."
+
+04 — DECKING & OUTDOOR STRUCTURES
+
+"Create additional outdoor living opportunities with decking, steps and outdoor structures."
+
+05 — FIRE PITS
+
+"Introduce a dedicated outdoor gathering feature that adds another dimension to your outdoor environment."
+
+Visual design:
+- One oversized featured image.
+- Alternating image-and-text compositions.
+- Large editorial headings.
+- Small numbered labels.
+- Beautiful architectural landscaping photography.
+- Elegant animated arrows.
+
+Do not make five identical cards.
+
+### SECTION 05 — PROPERTY MAINTENANCE
+
+Background: Deep brand colour.
+
+Headline:
+
+"KEEP YOUR PROPERTY
+LOOKING ITS BEST."
+
+Supporting copy:
+
+"Good outdoor spaces need consistent attention. Ravo's provides practical property maintenance for customers who need regular upkeep or occasional help."
+
+Present:
+
+LAWN MOWING
+
+Keep lawns maintained and outdoor areas tidy.
+
+GARDENING
+
+Maintain garden areas and improve their overall appearance.
+
+TREE & BUSH PRUNING
+
+Manage overgrown branches and garden vegetation.
+
+PROPERTY MAINTENANCE
+
+Support the ongoing upkeep of residential and other properties.
+
+GUTTER CLEANING
+
+Help maintain clean and functional gutters.
+
+RUBBISH REMOVAL
+
+Assist with clearing unwanted rubbish from properties.
+
+Highlight:
+
+ON-GOING OR ONCE-OFF JOBS AVAILABLE.
+
+Create an elegant two-column layout with:
+- Large photographic compositions.
+- Bold service titles.
+- Short descriptions.
+- Clear quote CTA.
+- Subtle image transitions.
+
+### SECTION 06 — SPECIALIST SERVICES
+
+Background: Warm neutral.
+
+Headline:
+
+"THE PRACTICAL DETAILS
+MATTER TOO."
+
+Introduce specialist services with individual visual treatments.
+
+01 — CUSTOM TIMBER MILLING
+
+"Custom timber milling orders for projects requiring tailored timber preparation."
+
+02 — HANDYMAN SERVICES
+
+"Practical assistance with property repairs and maintenance tasks."
+
+03 — CONCRETING
+
+"Concrete work for outdoor property improvements."
+
+04 — TREE REMOVAL
+
+"Small tree removal services to help address unwanted or obstructive trees."
+
+05 — OUTDOOR STEPS & FIRE PITS
+
+"Outdoor features that contribute to the functionality and character of a property."
+
+Use authentic service photography where available.
+
+Do not invent specific technical capabilities.
+
+### SECTION 07 — PROJECT PORTFOLIO
+
+THIS IS THE MOST IMPORTANT VISUAL SECTION AFTER THE HERO.
+
+The existing website contains numerous real project photographs, but the portfolio needs more storytelling and stronger conversion opportunities.
+
+Headline:
+
+"REAL WORK.
+VISIBLE DIFFERENCE."
+
+Supporting copy:
+
+"Explore examples of landscaping, outdoor improvements and property projects completed by Ravo's."
+
+Portfolio presentation:
+
+Create an asymmetric editorial gallery.
+
+Include:
+- One oversized featured project.
+- Large landscape images.
+- Vertical photographs.
+- Full-width image compositions.
+- Different image ratios.
+- Minimal captions.
+- Elegant image transitions.
+
+Use genuine photographs from the official Ravo's website gallery.
+
+Do not use unrelated stock photographs as completed Ravo's projects.
+
+### PROJECT STORYTELLING — CRITICAL
+
+Do not display a gallery consisting only of unexplained photographs.
+
+Every available project should have a meaningful presentation.
+
+Use this structure when information is available:
+
+PROJECT TYPE:
+Identify the visible type of work.
+
+THE SPACE:
+Describe the visible property or outdoor area.
+
+THE WORK:
+Describe only what can genuinely be established from the available project information and imagery.
+
+THE RESULT:
+Explain the visible improvement without making unsupported performance claims.
+
+Examples of suitable project categories:
+- Garden transformations.
+- Lawn and garden improvements.
+- Retaining wall work.
+- Timber landscaping.
+- Outdoor construction.
+- Property maintenance.
+
+Do not invent client names, project locations, budgets, materials or timelines.
+
+If the original project details are unavailable, create honest visual captions rather than fabricated case studies.
+
+### INTERACTIVE PORTFOLIO
+
+When a visitor selects a project:
+- Open a beautiful full-screen project modal.
+- Display larger photographs.
+- Show verified project descriptions.
+- Allow visitors to move between images.
+- Include a relevant enquiry CTA.
+
+Add filters:
+
+ALL PROJECTS
+LANDSCAPING
+GARDEN MAKEOVERS
+OUTDOOR CONSTRUCTION
+PROPERTY MAINTENANCE
+
+Only assign projects to categories when their photographs or published information support that categorisation.
+
+### SECTION 08 — BEFORE & AFTER TRANSFORMATIONS
+
+Create a visually powerful section dedicated to demonstrating the difference landscaping work can make.
+
+Headline:
+
+"SEE THE DIFFERENCE
+THOUGHTFUL WORK MAKES."
+
+Use actual before-and-after project images only when matching photographs are available.
+
+Create a draggable comparison slider.
+
+Features:
+- Horizontal drag interaction.
+- Before and after labels.
+- Smooth divider movement.
+- Responsive touch support.
+- Accessible keyboard interaction.
+
+Do not fabricate before-and-after pairs.
+
+If matching pairs are unavailable, create an image-led transformation gallery without pretending the photographs are before-and-after comparisons.
+
+### SECTION 09 — HOW RAVO'S WORKS
+
+Background: White.
+
+Headline:
+
+"FROM THE FIRST
+CONVERSATION TO THE
+FINISHED OUTDOOR SPACE."
+
+Create a simple four-stage process.
+
+01 — TELL US WHAT YOU NEED
+
+Discuss your landscaping, maintenance or property requirements.
+
+02 — UNDERSTAND THE JOB
+
+Establish the work required and relevant project details.
+
+03 — PLAN THE WORK
+
+Determine the appropriate approach for the requested service.
+
+04 — GET THE WORK DONE
+
+Carry out the agreed work with a focus on professional execution.
+
+Use:
+- Large numbered steps.
+- Connecting animated lines.
+- Editorial typography.
+- Subtle photography.
+- Horizontal desktop timeline.
+- Vertical mobile timeline.
+
+Do not invent fixed booking or completion times.
+
+### SECTION 10 — WHY CHOOSE RAVO'S
+
+Background: Soft neutral.
+
+Headline:
+
+"EXPERIENCE YOU CAN
+RELY ON."
+
+Highlight four verified business qualities.
+
+15+ YEARS OF EXPERIENCE
+
+"Over 15 years of landscaping and property maintenance experience."
+
+FAMILY-OWNED
+
+"A family-owned business with a local presence."
+
+FULLY INSURED
+
+Use the company's published fully insured statement.
+
+ONGOING OR ONCE-OFF WORK
+
+"Flexible service options for different property requirements."
+
+Create a bold editorial composition.
+
+Use:
+- Oversized numbers.
+- Large typography.
+- Authentic working photographs.
+- Beautiful spacing.
+- Strong visual hierarchy.
+
+Do not invent awards, qualifications or certifications.
+
+### SECTION 11 — CUSTOMER REVIEWS
+
+Background: Deep brand colour.
+
+Headline:
+
+"GOOD WORK SHOULD
+SPEAK FOR ITSELF."
+
+Find and use genuine public customer reviews where verifiable.
+
+Show:
+- Actual review wording.
+- Genuine reviewer names only when publicly displayed.
+- Correct review platform attribution.
+- Actual star ratings only when verified.
+
+Create a refined testimonial slider.
+
+If genuine reviews cannot be accessed, replace the section with verified business trust information.
+
+NEVER fabricate testimonials, customer names or review counts.
+
+### SECTION 12 — SERVICE AREA
+
+Headline:
+
+"LOCAL EXPERIENCE.
+PRACTICAL PROPERTY CARE."
+
+Supporting copy:
+
+"Based in Trafalgar, Victoria, Ravo's provides landscaping and property maintenance services."
+
+Use West and South Gippsland and the Latrobe Valley only if the service coverage can be verified.
+
+Create an elegant location presentation:
+- Minimalist map-style graphic.
+- Location marker.
+- Local typography.
+- Subtle animation.
+
+Do not invent service locations or promise coverage across all of Victoria.
+
+### SECTION 13 — FINAL CTA
+
+Create a cinematic section with an oversized landscaping photograph.
+
+Headline:
+
+"READY TO IMPROVE
+YOUR OUTDOOR SPACE?"
+
+Supporting copy:
+
+"Whether it's a garden transformation, ongoing maintenance or a specific outdoor project, start with a conversation."
+
+Primary CTA:
+GET A FREE QUOTE
+
+Secondary CTA:
+CALL RAVO'S
+
+Link the buttons to the enquiry section and published phone numbers.
+
+### SECTION 14 — CONTACT AND QUOTE FORM
+
+Create a premium two-column contact section.
+
+LEFT:
+
+Small label:
+LET'S TALK ABOUT YOUR PROPERTY
+
+Headline:
+
+"TELL US WHAT
+YOU HAVE IN MIND."
+
+Contact details:
+
+RAVO'S LANDSCAPING & PROPERTY MAINTENANCE
+
+7 Factory Road,
+Trafalgar VIC 3824,
+Australia.
+
+Phone:
+0447 167 416
+
+Additional phone:
+0494 123 909
+
+Official website:
+https://www.ravosmaintenance.com.au/
+
+Instagram:
+https://www.instagram.com/ravos_landscaping/
+
+Facebook:
+https://www.facebook.com/profile.php?id=100063685218651
+
+RIGHT:
+
+Create an elegant quote-request form.
+
+Fields:
+
+Full Name — required.
+
+Email — required.
+
+Phone Number — required.
+
+Property Location — required.
+
+What Do You Need? — required dropdown.
+
+Job Frequency — dropdown.
+
+Tell Us About Your Project — optional.
+
+Allow photo attachments if supported by the implementation.
+
+Service dropdown:
+
+- Landscaping.
+- Garden Makeover.
+- Retaining Walls.
+- Lawn Mowing.
+- Gardening.
+- Tree/Bush Pruning.
+- Property Maintenance.
+- Decking.
+- Fire Pits.
+- Concreting.
+- Custom Timber Milling.
+- Handyman Service.
+- Tree Removal.
+- Gutter Cleaning.
+- Rubbish Removal.
+- Other.
+
+Job frequency:
+
+- One-off job.
+- Ongoing maintenance.
+- Not sure yet.
+
+FORM FUNCTIONALITY:
+
+- Proper validation.
+- Accessible field labels.
+- Clear error messages.
+- Responsive layout.
+- Loading state.
+- Success state.
+- Clear submit interaction.
+
+If a backend is not configured, implement the frontend and clearly identify the integration requirement.
+
+Do not pretend an enquiry was sent if no backend processed it.
+
+### SECTION 15 — FOOTER
+
+Use the original brand colours.
+
+Include:
+
+RAVO'S LANDSCAPING & PROPERTY MAINTENANCE.
+
+Short description:
+
+"Landscaping, outdoor improvements and reliable property maintenance in Trafalgar and surrounding areas."
+
+Homepage navigation.
+
+Main service categories.
+
+Phone numbers.
+
+Address.
+
+Facebook.
+
+Instagram.
+
+Closing statement:
+
+"BETTER OUTDOOR SPACES START HERE."
+
+Add a smooth Back to Top interaction.
+
+---
+
+## 09. ADVANCED MOTION DESIGN
+
+Use Framer Motion as the primary animation library.
+
+Use GSAP only where complex scroll interactions genuinely require it.
+
+Required animations:
+
+- Cinematic hero image reveal.
+- Staggered headline animation.
+- Scroll-triggered text reveals.
+- Smooth image clipping masks.
+- Animated section dividers.
+- Service pathway transitions.
+- Elegant image zoom.
+- Portfolio lightbox.
+- Interactive before-and-after slider.
+- Timeline animations.
+- Refined navigation transitions.
+- Button hover interactions.
+- Subtle parallax.
+- Footer reveal.
+
+Animation personality:
+
+Natural, smooth, premium and intentional.
+
+Avoid excessive bouncing, spinning, glowing effects and unnecessary movement.
+
+Respect prefers-reduced-motion.
+
+Maintain excellent performance on mobile.
+
+## 10. IMAGE STRATEGY — CRITICAL
+
+Authentic project photography is essential.
+
+Prioritise images from:
+
+1. Official Ravo's website.
+2. Official landscaping gallery.
+3. Official Facebook.
+4. Official Instagram.
+
+Use real business photographs for portfolio sections.
+
+Do not use generic stock images as actual completed Ravo's projects.
+
+For hero and supporting photography, representative landscaping imagery is acceptable if it is not falsely labelled as Ravo's work.
+
+### Image selection
+
+Prioritise:
+- Garden transformations.
+- Lawn installations.
+- Stone garden pathways.
+- Retaining walls.
+- Timber structures.
+- Decking.
+- Outdoor living spaces.
+- Garden maintenance.
+- Concreting.
+
+### Performance requirements
+
+Prefer:
+- AVIF.
+- WebP.
+- Optimised JPEG fallback.
+
+Hero:
+- loading="eager".
+- fetchPriority="high".
+- Preload only the hero image.
+
+Below the fold:
+- loading="lazy".
+- decoding="async".
+
+Gallery:
+- Optimised thumbnails first.
+- Load full-resolution images only when opened.
+
+Additional requirements:
+- Use srcset and sizes.
+- Specify image dimensions.
+- Avoid layout shifts.
+- Do not load the entire gallery immediately.
+- Avoid huge base64 images.
+- Prefer locally optimised assets in public/images/.
+- Do not invent filenames or image URLs.
+- Do not rely on unreliable external image hotlinking.
+
+If genuine business assets cannot be retrieved, identify the missing assets and use clearly representative photography.
+
+## 11. SEO OPTIMISATION
+
+Primary location:
+
+Trafalgar, Victoria, Australia.
+
+Suggested SEO title:
+
+Ravo's Landscaping & Property Maintenance | Trafalgar VIC
+
+Suggested meta description:
+
+Explore landscaping, garden makeovers, lawn care, outdoor construction and property maintenance with Ravo's Landscaping & Property Maintenance in Trafalgar, Victoria.
+
+Keyword themes:
+
+- Landscaping Trafalgar.
+- Landscapers Trafalgar VIC.
+- Garden makeovers Trafalgar.
+- Property maintenance Trafalgar.
+- Lawn mowing Trafalgar.
+- Retaining walls Trafalgar.
+- Decking and outdoor construction.
+- Gardening services Gippsland.
+- Landscaping West Gippsland.
+- Property maintenance Latrobe Valley.
+
+Implement:
+- Semantic HTML5.
+- One H1 heading.
+- Proper H2/H3 hierarchy.
+- Meta title.
+- Meta description.
+- Canonical URL.
+- Open Graph tags.
+- Descriptive image alt text.
+- LocalBusiness structured data.
+- Accurate business contact information.
+- XML sitemap.
+- robots.txt.
+- Internal anchor links.
+
+Do not keyword-stuff or invent business details.
+
+## 12. TECHNICAL STACK
+
+Build an actual functional React application.
+
+Preferred technologies:
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- Framer Motion.
+- GSAP when necessary.
+- Lucide React.
+
+Create modular components:
+
+Header.
+
+MobileNavigation.
+
+HeroSection.
+
+BrandIntroduction.
+
+ServiceFinder.
+
+ServicePathway.
+
+LandscapingSection.
+
+MaintenanceSection.
+
+SpecialistServices.
+
+ProjectsGallery.
+
+ProjectModal.
+
+BeforeAfterSlider.
+
+WorkProcess.
+
+WhyRavosSection.
+
+Testimonials.
+
+ServiceArea.
+
+ContactCTA.
+
+QuoteForm.
+
+Footer.
+
+Use clean, reusable code.
+
+All interactions must work.
+
+Do not create additional routes.
+
+## 13. RESPONSIVE DESIGN
+
+Test the complete website at:
+
+360px.
+
+390px.
+
+430px.
+
+768px.
+
+1024px.
+
+1440px.
+
+1920px.
+
+Do not simply shrink the desktop layout.
+
+Create intentional mobile compositions.
+
+Ensure:
+- No horizontal overflow.
+- Readable typography.
+- Proper image cropping.
+- Touch-friendly controls.
+- Responsive navigation.
+- Optimised animation.
+- Consistent spacing.
+- Functional forms.
+- Proper mobile gallery interactions.
+
+## 14. FINAL QUALITY CONTROL
+
+Before completing the website, verify the following.
+
+DESIGN:
+- Existing Ravo's brand identity preserved.
+- Correct extracted brand colours.
+- Bold Syne typography.
+- Manrope body typography.
+- Cormorant Garamond editorial accents.
+- Premium landscaping visual direction.
+- Beautiful photography.
+- Consistent section layouts.
+- Strong visual hierarchy.
+
+BUSINESS POSITIONING:
+- Family-owned identity.
+- Over 15 years of experience.
+- Clear landscaping pathway.
+- Clear maintenance pathway.
+- Specialist services pathway.
+- Authentic project presentation.
+- Ongoing and once-off work.
+- Clear quote-request experience.
+
+FUNCTIONALITY:
+- Navigation works.
+- Smooth scrolling works.
+- Service pathways work.
+- Portfolio filters work.
+- Project modal works.
+- Before-and-after slider works where assets permit.
+- Contact form validates.
+- Phone links work.
+- Social links work.
+- Back to Top works.
+
+PERFORMANCE:
+- No broken images.
+- No unnecessary image downloads.
+- Hero loads with priority.
+- Below-the-fold images lazy-load.
+- Responsive images.
+- No major layout shifts.
+- No console errors.
+- Reduced motion works.
+
+## FINAL CREATIVE INSTRUCTION
+
+The finished website must look like a premium Australian landscaping and outdoor-living brand.
+
+Prioritise these six elements:
+
+1. A breathtaking cinematic landscaping hero.
+2. Bold, distinctive typography.
+3. A sophisticated three-pathway service discovery experience.
+4. A beautiful project portfolio with meaningful project storytelling.
+5. Interactive before-and-after presentations where genuine matching images exist.
+6. A strong, simple quote-request experience.
+
+The website must be visually distinctive, cohesive and professionally executed.
+
+Do not create multiple pages.
+
+Do not add InoDo promotional content.
+
+Do not fabricate business information.
+
+Do not use generic repetitive cards.
+
+Do not create fake customer reviews.
+
+Do not merely describe the website.
+
+**BUILD THE COMPLETE, FUNCTIONAL, RESPONSIVE ONE-PAGE HOMEPAGE NOW.**

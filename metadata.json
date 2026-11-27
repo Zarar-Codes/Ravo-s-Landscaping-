@@ -1,0 +1,6 @@
+{
+  "name": "Ravo's Landscaping & Property Maintenance",
+  "description": "Landscaping, garden makeovers, outdoor construction, and reliable property maintenance in Trafalgar, West & South Gippsland, and the Latrobe Valley, Victoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
